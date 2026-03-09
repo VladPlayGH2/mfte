@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "swamp",
+    "jungle",
+    "plains"
+  ],
+  "features": "morefoodthanever:rice_panicle",
+  "step": "vegetal_decoration"
+}

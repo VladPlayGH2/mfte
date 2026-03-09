@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "morefoodthanever:batter_bowl"
+    }
+  },
+  "result": {
+    "item": "morefoodthanever:raw_pancakes",
+    "count": 1
+  }
+}

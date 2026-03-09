@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 250,
+  "ingredient": {
+    "item": "morefoodthanever:welldone_smore"
+  },
+  "result": "morefoodthanever:burnt_smore"
+}

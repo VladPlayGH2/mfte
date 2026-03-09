@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa ",
+    "b b",
+    "bbb"
+  ],
+  "key": {
+    "a": {
+      "item": "morefoodthanever:black_plastic"
+    },
+    "b": {
+      "item": "morefoodthanever:plastic"
+    }
+  },
+  "result": {
+    "item": "morefoodthanever:plastic_condiment_bottle",
+    "count": 1
+  }
+}

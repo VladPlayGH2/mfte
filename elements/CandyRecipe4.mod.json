@@ -1,0 +1,49 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:CandyWrapper"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Gelatin"
+      },
+      {
+        "value": "CUSTOM:Strawberry"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SweetBerryBottle"
+      },
+      {
+        "value": "Items.SUGAR"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Candy"
+    },
+    "name": "candy_recipe_4",
+    "namespace": "mod"
+  }
+}

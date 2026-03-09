@@ -1,0 +1,30 @@
+--------------------------------------------------------------------------------
+
+Command-Line:
+ - C:\Program Files\Pylo\MCreator\jdk\bin\java.exe
+ - -jar
+ - C:\Users\User\.mcreator\gradle\caches\modules-2\files-2.1\io.codechicken\DiffPatch\2.0.0.36\5b32f9baa0c0371c0dc80a3b88794960af0c6b44\DiffPatch-2.0.0.36-all.jar
+ - C:\Users\User\.mcreator\gradle\caches\neoformruntime\intermediate_results\patch_f996458ca72347ad2b7684a5baae75725b272352_output.zip
+ - C:\Users\User\.mcreator\gradle\caches\modules-2\resources-2.1\72\617d361d0523d2c2dbed4090751019d632370fee\forge-1.20.1-47.4.10-userdev.jar
+ - --prefix
+ - patches/
+ - --patch
+ - --archive
+ - ZIP
+ - --output
+ - ./output.zip
+ - --log-level
+ - WARN
+ - --mode
+ - OFFSET
+ - --archive-rejects
+ - ZIP
+ - --reject
+ - ./outputRejects.zip
+ - --base-path-prefix
+ - a/
+ - --modified-path-prefix
+ - b/
+--------------------------------------------------------------------------------
+
+[0.012s][warning][cds] The shared archive file was created by a different version or build of HotSpot

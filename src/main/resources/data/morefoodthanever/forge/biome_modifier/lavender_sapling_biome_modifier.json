@@ -1,0 +1,9 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "savanna",
+    "forest"
+  ],
+  "features": "morefoodthanever:lavender_sapling",
+  "step": "vegetal_decoration"
+}

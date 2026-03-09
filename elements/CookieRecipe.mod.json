@@ -1,0 +1,27 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [
+      {
+        "value": "CUSTOM:CookieDough"
+      }
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 1.2000000000000002,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "CUSTOM:CookieDough"
+    },
+    "smeltingReturnStack": {
+      "value": "Items.COOKIE"
+    },
+    "name": "cookie_recipe",
+    "namespace": "mod"
+  }
+}

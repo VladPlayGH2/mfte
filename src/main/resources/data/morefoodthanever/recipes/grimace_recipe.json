@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "morefoodthanever:ice_cream_bucket"
+    },
+    {
+      "item": "minecraft:milk_bucket"
+    },
+    {
+      "item": "morefoodthanever:blueberries"
+    },
+    {
+      "item": "morefoodthanever:raspberry"
+    },
+    {
+      "item": "morefoodthanever:strawberry"
+    },
+    {
+      "item": "minecraft:honey_bottle"
+    },
+    {
+      "item": "morefoodthanever:cream_bucket"
+    },
+    {
+      "item": "morefoodthanever:glass_cup"
+    },
+    {
+      "item": "morefoodthanever:straw"
+    }
+  ],
+  "result": {
+    "item": "morefoodthanever:grimace_shake",
+    "count": 1
+  }
+}

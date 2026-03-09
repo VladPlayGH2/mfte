@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b",
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "morefoodthanever:chocolate_chip"
+    },
+    "b": {
+      "item": "morefoodthanever:dough"
+    }
+  },
+  "result": {
+    "item": "morefoodthanever:cookie_dough",
+    "count": 1
+  }
+}

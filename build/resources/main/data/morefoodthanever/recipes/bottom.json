@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "morefoodthanever:dough"
+    }
+  },
+  "result": {
+    "item": "morefoodthanever:raw_bottom_bun",
+    "count": 1
+  }
+}

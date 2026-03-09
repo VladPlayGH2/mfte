@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:poisonous_potato"
+    }
+  },
+  "result": {
+    "item": "morefoodthanever:potato_eye",
+    "count": 2
+  }
+}

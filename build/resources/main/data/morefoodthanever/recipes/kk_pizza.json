@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aab",
+    "abb",
+    "ccc"
+  ],
+  "key": {
+    "a": {
+      "item": "morefoodthanever:pepperoni"
+    },
+    "b": {
+      "item": "minecraft:brown_mushroom"
+    },
+    "c": {
+      "item": "morefoodthanever:krabby_patty"
+    }
+  },
+  "result": {
+    "item": "morefoodthanever:raw_krabby_pizza",
+    "count": 1
+  }
+}

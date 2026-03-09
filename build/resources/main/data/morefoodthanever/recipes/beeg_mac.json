@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "morefoodthanever:mayonnaise_jar"
+    },
+    {
+      "item": "morefoodthanever:mustard_bottle"
+    },
+    {
+      "item": "morefoodthanever:ketchup_bottle"
+    },
+    {
+      "item": "minecraft:sea_pickle"
+    },
+    {
+      "item": "morefoodthanever:paprika"
+    },
+    {
+      "item": "morefoodthanever:garlic_powder"
+    },
+    {
+      "item": "morefoodthanever:onion_powder"
+    },
+    {
+      "item": "morefoodthanever:vinegar_bottle"
+    },
+    {
+      "item": "minecraft:sugar"
+    }
+  ],
+  "result": {
+    "item": "morefoodthanever:big_mac_sauce",
+    "count": 1
+  }
+}

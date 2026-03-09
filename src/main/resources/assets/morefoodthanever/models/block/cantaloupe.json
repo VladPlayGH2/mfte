@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "morefoodthanever:block/cantaloupe_side",
+    "up": "morefoodthanever:block/cantaloupe_top",
+    "north": "morefoodthanever:block/cantaloupe_side",
+    "east": "morefoodthanever:block/cantaloupe_side",
+    "south": "morefoodthanever:block/cantaloupe_side",
+    "west": "morefoodthanever:block/cantaloupe_side",
+    "particle": "morefoodthanever:block/cantaloupe_side"
+  },
+  "render_type": "solid"
+}

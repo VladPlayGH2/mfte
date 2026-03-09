@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "b b",
+    "bbb"
+  ],
+  "key": {
+    "a": {
+      "item": "morefoodthanever:red_plastic"
+    },
+    "b": {
+      "item": "morefoodthanever:plastic"
+    }
+  },
+  "result": {
+    "item": "morefoodthanever:jelly_jar",
+    "count": 1
+  }
+}

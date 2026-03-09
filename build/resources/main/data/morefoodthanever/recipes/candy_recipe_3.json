@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "morefoodthanever:candy_wrapper"
+    },
+    {
+      "item": "morefoodthanever:gelatin"
+    },
+    {
+      "item": "morefoodthanever:raspberry"
+    },
+    {
+      "item": "morefoodthanever:sweet_berry_bottle"
+    },
+    {
+      "item": "minecraft:sugar"
+    }
+  ],
+  "result": {
+    "item": "morefoodthanever:candy",
+    "count": 1
+  }
+}

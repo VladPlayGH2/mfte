@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab",
+    "cd"
+  ],
+  "key": {
+    "a": {
+      "item": "morefoodthanever:tomato"
+    },
+    "b": {
+      "item": "minecraft:sugar"
+    },
+    "c": {
+      "item": "morefoodthanever:salt"
+    },
+    "d": {
+      "item": "morefoodthanever:plastic_condiment_bottle"
+    }
+  },
+  "result": {
+    "item": "morefoodthanever:ketchup_bottle",
+    "count": 1
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b"
+  ],
+  "key": {
+    "a": {
+      "item": "morefoodthanever:sesame_seeds"
+    },
+    "b": {
+      "item": "morefoodthanever:dough"
+    }
+  },
+  "result": {
+    "item": "morefoodthanever:raw_sesame_bun",
+    "count": 1
+  }
+}

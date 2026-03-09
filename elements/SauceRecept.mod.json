@@ -1,0 +1,49 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.DYE#1"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:RedPlastic"
+      },
+      {
+        "value": "Items.PAPER"
+      },
+      {
+        "value": "CUSTOM:RedPlastic"
+      },
+      {
+        "value": "CUSTOM:RedPlastic"
+      },
+      {
+        "value": "CUSTOM:RedPlastic"
+      },
+      {
+        "value": "CUSTOM:RedPlastic"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:SauceContainer"
+    },
+    "name": "sauce_recept",
+    "namespace": "mod"
+  }
+}

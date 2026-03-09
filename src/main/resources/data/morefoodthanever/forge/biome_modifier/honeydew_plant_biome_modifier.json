@@ -1,0 +1,11 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "forest",
+    "plains",
+    "swamp",
+    "meadow"
+  ],
+  "features": "morefoodthanever:honeydew_plant",
+  "step": "vegetal_decoration"
+}

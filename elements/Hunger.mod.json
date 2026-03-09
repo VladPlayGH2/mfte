@@ -1,0 +1,42 @@
+{
+  "_fv": 79,
+  "_type": "potion",
+  "definition": {
+    "potionName": "Potion of Hunger",
+    "splashName": "Splash Potion of Hunger",
+    "lingeringName": "Lingering Potion of Hunger",
+    "arrowName": "Arrow of Hunger",
+    "effects": [
+      {
+        "effect": {
+          "value": "HUNGER"
+        },
+        "duration": 900,
+        "infinite": false,
+        "amplifier": 0,
+        "ambient": false,
+        "showParticles": true
+      },
+      {
+        "effect": {
+          "value": "HUNGER"
+        },
+        "duration": 3600,
+        "infinite": false,
+        "amplifier": 0,
+        "ambient": false,
+        "showParticles": true
+      },
+      {
+        "effect": {
+          "value": "HUNGER"
+        },
+        "duration": 400,
+        "infinite": false,
+        "amplifier": 1,
+        "ambient": false,
+        "showParticles": true
+      }
+    ]
+  }
+}

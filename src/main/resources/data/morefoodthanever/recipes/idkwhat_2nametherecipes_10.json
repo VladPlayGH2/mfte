@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "morefoodthanever:sushi_rice"
+    },
+    {
+      "item": "morefoodthanever:green_ham_and_eggs"
+    }
+  ],
+  "result": {
+    "item": "morefoodthanever:green_ham_sushi",
+    "count": 1
+  }
+}

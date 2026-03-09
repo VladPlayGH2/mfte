@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "morefoodthanever:block/deepslate_plastic_ore",
+    "particle": "morefoodthanever:block/deepslate_plastic_ore"
+  },
+  "render_type": "solid"
+}

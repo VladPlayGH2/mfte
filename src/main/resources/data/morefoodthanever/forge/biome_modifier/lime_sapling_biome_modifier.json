@@ -1,0 +1,11 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "jungle",
+    "swamp",
+    "forest",
+    "plains"
+  ],
+  "features": "morefoodthanever:lime_sapling",
+  "step": "vegetal_decoration"
+}

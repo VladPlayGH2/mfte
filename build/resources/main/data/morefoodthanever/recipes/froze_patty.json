@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc"
+  ],
+  "key": {
+    "a": {
+      "item": "morefoodthanever:frozen_patty_box"
+    },
+    "b": {
+      "item": "morefoodthanever:krabby_patty"
+    },
+    "c": {
+      "item": "minecraft:sand"
+    }
+  },
+  "result": {
+    "item": "morefoodthanever:frozen_patty",
+    "count": 1
+  }
+}

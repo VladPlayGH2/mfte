@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a ",
+    "bc"
+  ],
+  "key": {
+    "a": {
+      "item": "morefoodthanever:sweet_berry"
+    },
+    "b": {
+      "item": "morefoodthanever:cupcake_layer"
+    },
+    "c": {
+      "item": "morefoodthanever:cream_bucket"
+    }
+  },
+  "result": {
+    "item": "morefoodthanever:cupcake",
+    "count": 1
+  }
+}

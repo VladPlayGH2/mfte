@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:milk_bucket"
+    },
+    {
+      "item": "morefoodthanever:vanilla"
+    }
+  ],
+  "result": {
+    "item": "morefoodthanever:ice_cream_bucket",
+    "count": 1
+  }
+}

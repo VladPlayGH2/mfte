@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "morefoodthanever:corn"
+    },
+    {
+      "item": "morefoodthanever:oil_bottle"
+    },
+    {
+      "item": "morefoodthanever:salt"
+    },
+    {
+      "item": "minecraft:water_bucket"
+    }
+  ],
+  "result": {
+    "item": "morefoodthanever:raw_tortilla",
+    "count": 1
+  }
+}

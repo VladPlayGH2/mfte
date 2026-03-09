@@ -1,0 +1,49 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:IceCreamBucket"
+      },
+      {
+        "value": "Items.MILK_BUCKET"
+      },
+      {
+        "value": "CUSTOM:Blueberries"
+      },
+      {
+        "value": "CUSTOM:Raspberry"
+      },
+      {
+        "value": "CUSTOM:Strawberry"
+      },
+      {
+        "value": "Items.HONEY_BOTTLE"
+      },
+      {
+        "value": "CUSTOM:CreamBucket"
+      },
+      {
+        "value": "CUSTOM:GlassCup"
+      },
+      {
+        "value": "CUSTOM:Straw"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:GrimaceShake"
+    },
+    "name": "grimace_recipe",
+    "namespace": "mod"
+  }
+}

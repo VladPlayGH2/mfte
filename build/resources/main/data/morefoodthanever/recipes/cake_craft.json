@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa ",
+    "aaa",
+    " aa"
+  ],
+  "key": {
+    "a": {
+      "item": "morefoodthanever:cake_slice"
+    }
+  },
+  "result": {
+    "item": "morefoodthanever:instant_cake",
+    "count": 1
+  }
+}

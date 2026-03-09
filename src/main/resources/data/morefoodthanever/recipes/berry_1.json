@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:sweet_berries"
+    },
+    {
+      "item": "morefoodthanever:glow_dye"
+    }
+  ],
+  "result": {
+    "item": "morefoodthanever:glowing_berry",
+    "count": 1
+  }
+}

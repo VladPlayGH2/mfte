@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "abc",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "morefoodthanever:cooked_tofu"
+    },
+    "b": {
+      "item": "morefoodthanever:nausea_stomach"
+    },
+    "c": {
+      "item": "morefoodthanever:oshizushi_rice"
+    }
+  },
+  "result": {
+    "item": "morefoodthanever:nausea_sushi",
+    "count": 1
+  }
+}

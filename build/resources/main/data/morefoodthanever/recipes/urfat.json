@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a",
+    "a "
+  ],
+  "key": {
+    "a": {
+      "item": "morefoodthanever:big_mac"
+    }
+  },
+  "result": {
+    "item": "morefoodthanever:burger_crystal",
+    "count": 1
+  }
+}

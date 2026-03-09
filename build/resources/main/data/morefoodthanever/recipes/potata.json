@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "morefoodthanever:poisonous_potato_nubs"
+    },
+    "b": {
+      "item": "minecraft:potato"
+    }
+  },
+  "result": {
+    "item": "minecraft:poisonous_potato",
+    "count": 1
+  }
+}

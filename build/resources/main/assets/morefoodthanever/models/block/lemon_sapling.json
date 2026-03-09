@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "morefoodthanever:block/lemon_sapling",
+    "particle": "morefoodthanever:block/lemon_sapling"
+  },
+  "render_type": "cutout"
+}

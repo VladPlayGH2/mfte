@@ -1,0 +1,9 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "forest",
+    "plains"
+  ],
+  "features": "morefoodthanever:mint_sapling",
+  "step": "vegetal_decoration"
+}

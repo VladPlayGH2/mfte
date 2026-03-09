@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b",
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "morefoodthanever:night_vision_eye"
+    },
+    "b": {
+      "item": "morefoodthanever:makizushi_rice"
+    }
+  },
+  "result": {
+    "item": "morefoodthanever:night_vision_sushi",
+    "count": 1
+  }
+}

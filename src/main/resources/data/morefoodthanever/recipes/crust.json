@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "morefoodthanever:dough"
+    }
+  },
+  "result": {
+    "item": "morefoodthanever:pizza_crust",
+    "count": 1
+  }
+}

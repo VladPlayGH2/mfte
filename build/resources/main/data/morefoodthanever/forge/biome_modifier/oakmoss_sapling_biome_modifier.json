@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "forest",
+  "features": "morefoodthanever:oakmoss_sapling",
+  "step": "vegetal_decoration"
+}

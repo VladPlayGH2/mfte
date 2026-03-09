@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b"
+  ],
+  "key": {
+    "a": {
+      "item": "morefoodthanever:evoker_fang"
+    },
+    "b": {
+      "item": "morefoodthanever:sushi_rice"
+    }
+  },
+  "result": {
+    "item": "morefoodthanever:evoker_fang_sushi",
+    "count": 1
+  }
+}

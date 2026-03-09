@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "morefoodthanever:block/rice_panicle",
+    "particle": "morefoodthanever:block/rice_panicle"
+  },
+  "render_type": "cutout"
+}

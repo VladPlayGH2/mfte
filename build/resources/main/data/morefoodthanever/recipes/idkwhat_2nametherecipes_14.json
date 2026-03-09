@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "morefoodthanever:makizushi_rice"
+    },
+    {
+      "item": "morefoodthanever:winter_wrap"
+    }
+  ],
+  "result": {
+    "item": "morefoodthanever:winter_sushi",
+    "count": 1
+  }
+}

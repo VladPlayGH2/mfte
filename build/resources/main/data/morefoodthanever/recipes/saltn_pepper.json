@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "morefoodthanever:salt"
+    },
+    {
+      "item": "morefoodthanever:pepper"
+    }
+  ],
+  "result": {
+    "item": "morefoodthanever:salt_pepper",
+    "count": 1
+  }
+}

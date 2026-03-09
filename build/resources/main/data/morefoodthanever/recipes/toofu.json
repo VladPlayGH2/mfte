@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "morefoodthanever:soy_milk"
+    }
+  },
+  "result": {
+    "item": "morefoodthanever:raw_tofu",
+    "count": 3
+  }
+}

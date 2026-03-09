@@ -1,0 +1,8 @@
+{
+  "type": "forge:add_features",
+  "biomes": {
+    "type": "forge:any"
+  },
+  "features": "morefoodthanever:deepslate_plastic_ore",
+  "step": "underground_ores"
+}

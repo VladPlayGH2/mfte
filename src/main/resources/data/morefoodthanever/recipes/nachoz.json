@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "morefoodthanever:tortilla_chip"
+    },
+    {
+      "item": "morefoodthanever:cheese"
+    }
+  ],
+  "result": {
+    "item": "morefoodthanever:nacho",
+    "count": 1
+  }
+}

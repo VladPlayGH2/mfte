@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:cooked_mutton"
+    },
+    "b": {
+      "item": "morefoodthanever:oshizushi_rice"
+    }
+  },
+  "result": {
+    "item": "morefoodthanever:mutton_sushi",
+    "count": 1
+  }
+}

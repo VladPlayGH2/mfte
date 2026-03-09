@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "morefoodthanever:mustard_seeds"
+    },
+    {
+      "item": "minecraft:water_bucket"
+    },
+    {
+      "item": "morefoodthanever:salt"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "morefoodthanever:oil_bottle"
+    },
+    {
+      "item": "morefoodthanever:plastic_condiment_bottle"
+    }
+  ],
+  "result": {
+    "item": "morefoodthanever:mustard_bottle",
+    "count": 1
+  }
+}

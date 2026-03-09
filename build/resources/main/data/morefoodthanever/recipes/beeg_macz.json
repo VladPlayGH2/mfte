@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    "def",
+    "ghi"
+  ],
+  "key": {
+    "a": {
+      "item": "morefoodthanever:sesame_bun"
+    },
+    "b": {
+      "item": "morefoodthanever:meat_patty"
+    },
+    "c": {
+      "item": "morefoodthanever:lettuce"
+    },
+    "d": {
+      "item": "minecraft:sea_pickle"
+    },
+    "e": {
+      "item": "morefoodthanever:center_bun"
+    },
+    "f": {
+      "item": "morefoodthanever:cheese"
+    },
+    "g": {
+      "item": "morefoodthanever:onion"
+    },
+    "h": {
+      "item": "morefoodthanever:big_mac_sauce"
+    },
+    "i": {
+      "item": "morefoodthanever:bottom_bun"
+    }
+  },
+  "result": {
+    "item": "morefoodthanever:big_mac",
+    "count": 1
+  }
+}

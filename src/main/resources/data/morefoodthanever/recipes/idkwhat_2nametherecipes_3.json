@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "morefoodthanever:oshizushi_rice"
+    },
+    {
+      "item": "morefoodthanever:raid_omen_head"
+    }
+  ],
+  "result": {
+    "item": "morefoodthanever:illager_sushi",
+    "count": 1
+  }
+}

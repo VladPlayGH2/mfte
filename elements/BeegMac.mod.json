@@ -1,0 +1,49 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:MayonnaiseJar"
+      },
+      {
+        "value": "CUSTOM:MustardBottle"
+      },
+      {
+        "value": "CUSTOM:KetchupBottle"
+      },
+      {
+        "value": "Blocks.SEA_PICKLE"
+      },
+      {
+        "value": "CUSTOM:Paprika"
+      },
+      {
+        "value": "CUSTOM:GarlicPowder"
+      },
+      {
+        "value": "CUSTOM:OnionPowder"
+      },
+      {
+        "value": "CUSTOM:VinegarBottle"
+      },
+      {
+        "value": "Items.SUGAR"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:BigMacSauce"
+    },
+    "name": "beeg_mac",
+    "namespace": "mod"
+  }
+}

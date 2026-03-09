@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b"
+  ],
+  "key": {
+    "a": {
+      "item": "morefoodthanever:crispy_horse_ribs"
+    },
+    "b": {
+      "item": "morefoodthanever:oshizushi_rice"
+    }
+  },
+  "result": {
+    "item": "morefoodthanever:crispy_horse_sushi",
+    "count": 1
+  }
+}

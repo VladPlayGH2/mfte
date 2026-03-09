@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "morefoodthanever:bell_pepper"
+    }
+  },
+  "result": {
+    "item": "morefoodthanever:paprika",
+    "count": 1
+  }
+}

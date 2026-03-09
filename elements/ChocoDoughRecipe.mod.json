@@ -1,0 +1,56 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [
+      {
+        "value": "CUSTOM:Flour"
+      },
+      {
+        "value": "CUSTOM:Yeast"
+      }
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Flour"
+      },
+      {
+        "value": "Items.WATER_BUCKET"
+      },
+      {
+        "value": "CUSTOM:Yeast"
+      },
+      {
+        "value": "Items.SUGAR"
+      },
+      {
+        "value": "CUSTOM:Salt"
+      },
+      {
+        "value": "Items.EGG"
+      },
+      {
+        "value": "CUSTOM:OilBottle"
+      },
+      {
+        "value": "CUSTOM:Butter"
+      },
+      {
+        "value": "CUSTOM:Chocolate"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:ChocolateDough"
+    },
+    "name": "choco_dough_recipe",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "morefoodthanever:sesame_bun"
+    },
+    {
+      "item": "morefoodthanever:patty"
+    },
+    {
+      "item": "morefoodthanever:lettuce"
+    },
+    {
+      "item": "morefoodthanever:cheese"
+    },
+    {
+      "item": "morefoodthanever:onion"
+    },
+    {
+      "item": "morefoodthanever:tomato"
+    },
+    {
+      "item": "morefoodthanever:ketchup_bottle"
+    },
+    {
+      "item": "morefoodthanever:mustard_bottle"
+    },
+    {
+      "item": "morefoodthanever:bottom_bun"
+    }
+  ],
+  "result": {
+    "item": "morefoodthanever:krabby_patty",
+    "count": 1
+  }
+}

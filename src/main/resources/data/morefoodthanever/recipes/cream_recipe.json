@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:milk_bucket"
+    },
+    "b": {
+      "item": "morefoodthanever:oil_bottle"
+    }
+  },
+  "result": {
+    "item": "morefoodthanever:cream_bucket",
+    "count": 1
+  }
+}

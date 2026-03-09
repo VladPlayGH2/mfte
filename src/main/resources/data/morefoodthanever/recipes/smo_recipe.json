@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b",
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "morefoodthanever:biscuit"
+    },
+    "b": {
+      "item": "morefoodthanever:marshmallow"
+    }
+  },
+  "result": {
+    "item": "morefoodthanever:smore",
+    "count": 1
+  }
+}

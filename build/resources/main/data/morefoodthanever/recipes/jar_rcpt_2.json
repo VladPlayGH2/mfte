@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "bcb",
+    "bbb"
+  ],
+  "key": {
+    "a": {
+      "item": "morefoodthanever:blue_plastic"
+    },
+    "b": {
+      "item": "morefoodthanever:plastic"
+    },
+    "c": {
+      "item": "morefoodthanever:mayonnaise_label"
+    }
+  },
+  "result": {
+    "item": "morefoodthanever:empty_mayo_jar",
+    "count": 1
+  }
+}

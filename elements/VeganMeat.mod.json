@@ -1,0 +1,49 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Soybeans"
+      },
+      {
+        "value": "CUSTOM:Yeast"
+      },
+      {
+        "value": "CUSTOM:Soybeans"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:RawPatty"
+    },
+    "name": "vegan_meat",
+    "namespace": "mod"
+  }
+}

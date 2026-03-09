@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "morefoodthanever:block/rice_panicle"
+  }
+}

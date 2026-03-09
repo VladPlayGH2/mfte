@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "morefoodthanever:block/cantaloupe_plant",
+    "particle": "morefoodthanever:block/cantaloupe_plant"
+  },
+  "render_type": "cutout"
+}

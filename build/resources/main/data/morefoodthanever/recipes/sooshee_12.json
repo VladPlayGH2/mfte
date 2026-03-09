@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b"
+  ],
+  "key": {
+    "a": {
+      "item": "morefoodthanever:ender_dragon_haunch"
+    },
+    "b": {
+      "item": "morefoodthanever:makizushi_rice"
+    }
+  },
+  "result": {
+    "item": "morefoodthanever:ender_dragon_sushi",
+    "count": 1
+  }
+}

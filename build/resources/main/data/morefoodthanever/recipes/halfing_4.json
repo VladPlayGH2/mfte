@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "morefoodthanever:coconut_shell"
+    }
+  },
+  "result": {
+    "item": "morefoodthanever:coconut_shell_half",
+    "count": 2
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "taiga",
+  "features": "morefoodthanever:pine_oil_sapling",
+  "step": "vegetal_decoration"
+}

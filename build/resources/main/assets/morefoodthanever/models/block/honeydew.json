@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "morefoodthanever:block/honeydew",
+    "up": "morefoodthanever:block/honeydew_top",
+    "north": "morefoodthanever:block/honeydew",
+    "east": "morefoodthanever:block/honeydew",
+    "south": "morefoodthanever:block/honeydew",
+    "west": "morefoodthanever:block/honeydew",
+    "particle": "morefoodthanever:block/honeydew"
+  },
+  "render_type": "solid"
+}

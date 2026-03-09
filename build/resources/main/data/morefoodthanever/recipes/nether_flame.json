@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    "def",
+    "ghi"
+  ],
+  "key": {
+    "a": {
+      "item": "morefoodthanever:chili_pepper"
+    },
+    "b": {
+      "item": "morefoodthanever:cayenne_pepper"
+    },
+    "c": {
+      "item": "morefoodthanever:bell_pepper"
+    },
+    "d": {
+      "item": "morefoodthanever:vinegar_bottle"
+    },
+    "e": {
+      "item": "morefoodthanever:tomato_paste"
+    },
+    "f": {
+      "item": "minecraft:water_bucket"
+    },
+    "g": {
+      "item": "morefoodthanever:salt_sugar"
+    },
+    "h": {
+      "item": "morefoodthanever:paprika"
+    },
+    "i": {
+      "item": "morefoodthanever:sauce_container"
+    }
+  },
+  "result": {
+    "item": "morefoodthanever:nether_flame_sauce",
+    "count": 1
+  }
+}

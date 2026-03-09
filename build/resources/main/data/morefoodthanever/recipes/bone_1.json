@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:bone"
+    },
+    "b": {
+      "item": "morefoodthanever:glow_dye"
+    }
+  },
+  "result": {
+    "item": "morefoodthanever:glowing_bone",
+    "count": 1
+  }
+}

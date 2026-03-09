@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:rotten_flesh"
+    },
+    "b": {
+      "item": "morefoodthanever:narezushi_rice"
+    }
+  },
+  "result": {
+    "item": "morefoodthanever:rotten_flesh_sushi",
+    "count": 1
+  }
+}

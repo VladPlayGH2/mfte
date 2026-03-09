@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b"
+  ],
+  "key": {
+    "a": {
+      "item": "morefoodthanever:ender_eye_skewer"
+    },
+    "b": {
+      "item": "morefoodthanever:sushi_rice"
+    }
+  },
+  "result": {
+    "item": "morefoodthanever:ender_eye_sushi",
+    "count": 1
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "morefoodthanever:cream_bucket"
+    }
+  },
+  "result": {
+    "item": "morefoodthanever:butter",
+    "count": 1
+  }
+}

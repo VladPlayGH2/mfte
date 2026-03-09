@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "morefoodthanever:waffle"
+    }
+  },
+  "result": {
+    "item": "morefoodthanever:waffle_cone",
+    "count": 1
+  }
+}

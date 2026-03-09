@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "morefoodthanever:lime"
+    }
+  },
+  "result": {
+    "item": "morefoodthanever:lime_slice",
+    "count": 6
+  }
+}

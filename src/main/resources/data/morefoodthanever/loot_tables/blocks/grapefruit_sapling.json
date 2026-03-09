@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "morefoodthanever:blocks/grapefruit_sapling",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "morefoodthanever:grapefruit",
+          "functions": [
+            {
+              "count": 2,
+              "function": "minecraft:set_count"
+            },
+            {
+              "function": "minecraft:explosion_decay"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "jungle",
+    "savanna",
+    "desert",
+    "plains",
+    "forest"
+  ],
+  "features": "morefoodthanever:orange_sapling",
+  "step": "vegetal_decoration"
+}

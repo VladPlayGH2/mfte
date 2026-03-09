@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "jungle",
+  "features": "morefoodthanever:ylang_ylang_sapling",
+  "step": "vegetal_decoration"
+}

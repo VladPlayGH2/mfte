@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "morefoodthanever:oil_bottle"
+    },
+    {
+      "item": "minecraft:egg"
+    },
+    {
+      "item": "morefoodthanever:mustard_bottle"
+    },
+    {
+      "item": "morefoodthanever:vinegar_bottle"
+    },
+    {
+      "item": "morefoodthanever:salt"
+    },
+    {
+      "item": "morefoodthanever:gelatin"
+    },
+    {
+      "item": "morefoodthanever:empty_mayo_jar"
+    }
+  ],
+  "result": {
+    "item": "morefoodthanever:mayonnaise_jar",
+    "count": 1
+  }
+}

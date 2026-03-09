@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "morefoodthanever:corn"
+    }
+  },
+  "result": {
+    "item": "morefoodthanever:corn_starch",
+    "count": 1
+  }
+}

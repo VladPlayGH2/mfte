@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "  a",
+    "bb ",
+    "bb "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:bone"
+    },
+    "b": {
+      "item": "minecraft:rotten_flesh"
+    }
+  },
+  "result": {
+    "item": "morefoodthanever:zombie_haunch",
+    "count": 1
+  }
+}

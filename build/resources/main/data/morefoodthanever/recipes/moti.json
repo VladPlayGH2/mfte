@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "morefoodthanever:sticky_rice"
+    },
+    {
+      "item": "minecraft:water_bucket"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "morefoodthanever:corn_starch"
+    }
+  ],
+  "result": {
+    "item": "morefoodthanever:mochi",
+    "count": 1
+  }
+}

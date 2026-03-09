@@ -1,0 +1,49 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:SesameBun"
+      },
+      {
+        "value": "CUSTOM:MeatPatty"
+      },
+      {
+        "value": "CUSTOM:Lettuce"
+      },
+      {
+        "value": "Blocks.SEA_PICKLE"
+      },
+      {
+        "value": "CUSTOM:CenterBun"
+      },
+      {
+        "value": "CUSTOM:Cheese"
+      },
+      {
+        "value": "CUSTOM:Onion"
+      },
+      {
+        "value": "CUSTOM:BigMacSauce"
+      },
+      {
+        "value": "CUSTOM:BottomBun"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:BigMac"
+    },
+    "name": "beeg_macz",
+    "namespace": "mod"
+  }
+}

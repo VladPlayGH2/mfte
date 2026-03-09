@@ -1,0 +1,49 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:ChiliPepper"
+      },
+      {
+        "value": "CUSTOM:CayennePepper"
+      },
+      {
+        "value": "CUSTOM:BellPepper"
+      },
+      {
+        "value": "CUSTOM:VinegarBottle"
+      },
+      {
+        "value": "CUSTOM:TomatoPaste"
+      },
+      {
+        "value": "Items.WATER_BUCKET"
+      },
+      {
+        "value": "CUSTOM:SaltSugar"
+      },
+      {
+        "value": "CUSTOM:Paprika"
+      },
+      {
+        "value": "CUSTOM:SauceContainer"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:NetherFlameSauce"
+    },
+    "name": "nether_flame",
+    "namespace": "mod"
+  }
+}

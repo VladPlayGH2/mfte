@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "morefoodthanever:batter_bowl"
+    },
+    {
+      "item": "morefoodthanever:dough"
+    }
+  ],
+  "result": {
+    "item": "morefoodthanever:raw_waffle",
+    "count": 1
+  }
+}

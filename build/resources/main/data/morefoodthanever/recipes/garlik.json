@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "morefoodthanever:garlic"
+    }
+  },
+  "result": {
+    "item": "morefoodthanever:garlic_powder",
+    "count": 1
+  }
+}

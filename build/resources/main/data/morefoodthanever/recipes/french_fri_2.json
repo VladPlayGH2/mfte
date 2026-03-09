@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab",
+    "c "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:baked_potato"
+    },
+    "b": {
+      "item": "morefoodthanever:oil_bottle"
+    },
+    "c": {
+      "item": "morefoodthanever:french_fry_box"
+    }
+  },
+  "result": {
+    "item": "morefoodthanever:french_fries",
+    "count": 1
+  }
+}

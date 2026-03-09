@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "morefoodthanever:gelatin"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:water_bucket"
+    },
+    {
+      "item": "morefoodthanever:corn_starch"
+    }
+  ],
+  "result": {
+    "item": "morefoodthanever:marshmallow",
+    "count": 1
+  }
+}

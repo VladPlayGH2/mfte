@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "morefoodthanever:makizushi_rice"
+    },
+    {
+      "item": "morefoodthanever:conduit_power_hots"
+    }
+  ],
+  "result": {
+    "item": "morefoodthanever:sea_sushi",
+    "count": 1
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "_fv": 79,
+  "_type": "potion",
+  "definition": {
+    "potionName": "Potion of Bad Luck",
+    "splashName": "Splash Potion of Bad Luck",
+    "lingeringName": "Lingering Potion of Bad Luck",
+    "arrowName": "Arrow of Bad Luck",
+    "effects": [
+      {
+        "effect": {
+          "value": "UNLUCK"
+        },
+        "duration": 900,
+        "infinite": false,
+        "amplifier": 0,
+        "ambient": false,
+        "showParticles": true
+      },
+      {
+        "effect": {
+          "value": "UNLUCK"
+        },
+        "duration": 3600,
+        "infinite": false,
+        "amplifier": 0,
+        "ambient": false,
+        "showParticles": true
+      },
+      {
+        "effect": {
+          "value": "UNLUCK"
+        },
+        "duration": 400,
+        "infinite": false,
+        "amplifier": 1,
+        "ambient": false,
+        "showParticles": true
+      }
+    ]
+  }
+}

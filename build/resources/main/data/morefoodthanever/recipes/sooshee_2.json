@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:tropical_fish"
+    },
+    "b": {
+      "item": "morefoodthanever:makizushi_rice"
+    }
+  },
+  "result": {
+    "item": "morefoodthanever:tropical_fish_sushi",
+    "count": 1
+  }
+}

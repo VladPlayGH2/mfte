@@ -1,0 +1,49 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Biscuit"
+      },
+      {
+        "value": "CUSTOM:Biscuit"
+      },
+      {
+        "value": "CUSTOM:Biscuit"
+      },
+      {
+        "value": "CUSTOM:Marshmallow"
+      },
+      {
+        "value": "CUSTOM:Marshmallow"
+      },
+      {
+        "value": "CUSTOM:Marshmallow"
+      },
+      {
+        "value": "CUSTOM:Biscuit"
+      },
+      {
+        "value": "CUSTOM:Biscuit"
+      },
+      {
+        "value": "CUSTOM:Biscuit"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:GiantSmore"
+    },
+    "name": "giant_recipe",
+    "namespace": "mod"
+  }
+}

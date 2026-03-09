@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "morefoodthanever:soybeans"
+    },
+    "b": {
+      "item": "morefoodthanever:yeast"
+    }
+  },
+  "result": {
+    "item": "morefoodthanever:raw_patty",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "desert",
+    "savanna",
+    "plains",
+    "badlands",
+    "beach"
+  ],
+  "features": "morefoodthanever:cantaloupe_plant",
+  "step": "vegetal_decoration"
+}

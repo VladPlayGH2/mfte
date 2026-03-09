@@ -1,0 +1,9 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "jungle",
+    "savanna"
+  ],
+  "features": "morefoodthanever:grapefruit_sapling",
+  "step": "vegetal_decoration"
+}
